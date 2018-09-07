@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/ws/service/Weather.java=UTF-8
+encoding//src/com/ws/service/WeatherImplPortBindingStub.java=UTF-8
+encoding//src/com/ws/service/WeatherImplService.java=UTF-8
+encoding//src/com/ws/service/WeatherImplServiceLocator.java=UTF-8
+encoding//src/com/wx/service/User.java=UTF-8
+encoding//src/com/wx/service/UserService.java=UTF-8
+encoding//src/com/wx/service/UserServiceImplPortBindingStub.java=UTF-8
+encoding//src/com/wx/service/UserServiceImplService.java=UTF-8
+encoding//src/com/wx/service/UserServiceImplServiceLocator.java=UTF-8
